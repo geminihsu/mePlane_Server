@@ -6,9 +6,8 @@ we propose the use of a dot product to calculate the different emotion scores of
 # Prerequisite
 Java Runtime Environment version 1.5 or above.
 
-# Screenshots
-1. Register user information
+# Screenshots(Register user information)
 ![alt text](https://github.com/geminihsu/mePlane/blob/master/Screenshots/register.JPG)
 
-2. Log in user accoutn
+# Screenshots(Log in user account)
 ![alt text](https://github.com/geminihsu/mePlane/blob/master/Screenshots/server.JPG)
